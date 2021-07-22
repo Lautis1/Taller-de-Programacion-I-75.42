@@ -1,0 +1,202 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/client/Monitor.h
+condition_variable
+-
+mutex
+-
+iostream
+-
+vector
+-
+../common/Entity.h
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/common/Entity.h
+../common/Logger.h
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/common/Logger.h
+
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/client/SDLManager.h
+SDL2/SDL.h
+-
+SDL2/SDL_image.h
+-
+SDL2/SDL_ttf.h
+-
+../common/Logger.h
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/common/Logger.h
+vector
+-
+
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/client/SoundManager.h
+SDL2/SDL.h
+-
+SDL2/SDL_image.h
+-
+SDL2/SDL_mixer.h
+-
+map
+-
+vector
+-
+string
+-
+../common/Logger.h
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/common/Logger.h
+Monitor.h
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/client/Monitor.h
+
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/client/View.cpp
+View.h
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/client/View.h
+
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/client/View.h
+map
+-
+iomanip
+-
+sstream
+-
+../server/Game.h
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/Game.h
+../common/Logger.h
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/common/Logger.h
+../common/Config.h
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/common/Config.h
+../client/Monitor.h
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/client/Monitor.h
+SDLManager.h
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/client/SDLManager.h
+SoundManager.h
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/client/SoundManager.h
+
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/common/Config.h
+iostream
+-
+jsoncpp/json/value.h
+-
+jsoncpp/json/json.h
+-
+fstream
+-
+string
+-
+typeinfo
+-
+Logger.h
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/common/Logger.h
+
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/common/Entity.h
+SDL2/SDL.h
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/common/SDL2/SDL.h
+SDL2/SDL_image.h
+-
+
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/common/Logger.h
+string
+-
+iostream
+-
+fstream
+-
+mutex
+-
+
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/CollisionManager.h
+vector
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/vector
+../common/Entity.h
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/common/Entity.h
+entities/Character.h
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/Character.h
+../common/Logger.h
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/common/Logger.h
+
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/Game.h
+vector
+-
+../common/Entity.h
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/common/Entity.h
+CollisionManager.h
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/CollisionManager.h
+../common/Config.h
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/common/Config.h
+entities/Character.h
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/Character.h
+../common/Logger.h
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/common/Logger.h
+entities/Barrel.h
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/Barrel.h
+entities/Character.h
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/Character.h
+entities/Ember.h
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/Ember.h
+entities/Fire.h
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/Fire.h
+entities/Flame.h
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/Flame.h
+entities/Monkey.h
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/Monkey.h
+entities/Platform.h
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/Platform.h
+entities/Princess.h
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/Princess.h
+entities/Stair.h
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/Stair.h
+entities/Hammer.h
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/Hammer.h
+
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/Barrel.h
+../../common/Entity.h
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/common/Entity.h
+
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/Character.h
+../../common/Entity.h
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/common/Entity.h
+Movement.h
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/Movement.h
+../../common/Config.h
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/common/Config.h
+StateManager.h
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/StateManager.h
+
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/Ember.h
+../../common/Entity.h
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/common/Entity.h
+
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/Fire.h
+../../common/Entity.h
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/common/Entity.h
+
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/Flame.h
+../../common/Entity.h
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/common/Entity.h
+
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/Hammer.h
+../../common/Entity.h
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/common/Entity.h
+
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/Monkey.h
+../../common/Entity.h
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/common/Entity.h
+
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/Movement.h
+
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/Platform.h
+../../common/Entity.h
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/common/Entity.h
+
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/Princess.h
+../../common/Entity.h
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/common/Entity.h
+
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/Stair.h
+../../common/Entity.h
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/common/Entity.h
+
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/StateManager.h
+

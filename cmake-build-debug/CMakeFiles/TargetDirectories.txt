@@ -1,0 +1,4 @@
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/cmake-build-debug/CMakeFiles/Server.dir
+/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/cmake-build-debug/CMakeFiles/Client.dir

@@ -1,0 +1,32 @@
+{
+    "configuration": {
+        "frame time": 33,
+        "debug": 1,
+        "path" : "../log.txt",
+        "gravity" : 2
+    },
+    "character" : {
+        "climbing speed" : 6,
+        "jumping speed" : 15,
+        "moving speed" : 8
+    },
+    "players amount" : 4,
+    "level 1" : {
+        "flames" : 8,
+        "embers" : 80
+    },
+    "level 2" : {
+        "barrels" : 80
+
+    },
+    "resolution" : {
+        "width" : 800,
+        "height" : 600
+    },
+    "user password" : {
+        "22" : "22",
+        "33" : "33",
+        "44" : "44",
+        "55" : "55"
+    }
+}

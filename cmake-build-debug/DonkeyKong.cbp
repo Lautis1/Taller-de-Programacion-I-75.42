@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="DonkeyKong"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\usr\lib\;CMake Files\..\..\..\..\..\usr\lib\cmake\;CMake Files\..\..\..\..\..\usr\lib\cmake\nlohmann_json\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/lauti/Documentos/Taller\ 1\ azcurra/Taller-Prog-I-2021-1C-Chipa/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/lauti/Documentos/Taller\ 1\ azcurra/Taller-Prog-I-2021-1C-Chipa/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/lauti/Documentos/Taller\ 1\ azcurra/Taller-Prog-I-2021-1C-Chipa/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/lauti/Documentos/Taller\ 1\ azcurra/Taller-Prog-I-2021-1C-Chipa/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/lauti/Documentos/Taller\ 1\ azcurra/Taller-Prog-I-2021-1C-Chipa/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/lauti/Documentos/Taller\ 1\ azcurra/Taller-Prog-I-2021-1C-Chipa/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/lauti/Documentos/Taller\ 1\ azcurra/Taller-Prog-I-2021-1C-Chipa/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/lauti/Documentos/Taller\ 1\ azcurra/Taller-Prog-I-2021-1C-Chipa/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/lauti/Documentos/Taller\ 1\ azcurra/Taller-Prog-I-2021-1C-Chipa/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/lauti/Documentos/Taller\ 1\ azcurra/Taller-Prog-I-2021-1C-Chipa/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/lauti/Documentos/Taller\ 1\ azcurra/Taller-Prog-I-2021-1C-Chipa/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/lauti/Documentos/Taller\ 1\ azcurra/Taller-Prog-I-2021-1C-Chipa/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Server">
+				<Option output="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/cmake-build-debug/Server" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/lauti/Documentos/Taller\ 1\ azcurra/Taller-Prog-I-2021-1C-Chipa/cmake-build-debug/Makefile&quot;  VERBOSE=1 Server"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/lauti/Documentos/Taller\ 1\ azcurra/Taller-Prog-I-2021-1C-Chipa/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/lauti/Documentos/Taller\ 1\ azcurra/Taller-Prog-I-2021-1C-Chipa/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/lauti/Documentos/Taller\ 1\ azcurra/Taller-Prog-I-2021-1C-Chipa/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Server/fast">
+				<Option output="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/cmake-build-debug/Server" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/lauti/Documentos/Taller\ 1\ azcurra/Taller-Prog-I-2021-1C-Chipa/cmake-build-debug/Makefile&quot;  VERBOSE=1 Server/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/lauti/Documentos/Taller\ 1\ azcurra/Taller-Prog-I-2021-1C-Chipa/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/lauti/Documentos/Taller\ 1\ azcurra/Taller-Prog-I-2021-1C-Chipa/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/lauti/Documentos/Taller\ 1\ azcurra/Taller-Prog-I-2021-1C-Chipa/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Client">
+				<Option output="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/cmake-build-debug/Client" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/lauti/Documentos/Taller\ 1\ azcurra/Taller-Prog-I-2021-1C-Chipa/cmake-build-debug/Makefile&quot;  VERBOSE=1 Client"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/lauti/Documentos/Taller\ 1\ azcurra/Taller-Prog-I-2021-1C-Chipa/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/lauti/Documentos/Taller\ 1\ azcurra/Taller-Prog-I-2021-1C-Chipa/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/lauti/Documentos/Taller\ 1\ azcurra/Taller-Prog-I-2021-1C-Chipa/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Client/fast">
+				<Option output="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/cmake-build-debug/Client" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/lauti/Documentos/Taller\ 1\ azcurra/Taller-Prog-I-2021-1C-Chipa/cmake-build-debug/Makefile&quot;  VERBOSE=1 Client/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/lauti/Documentos/Taller\ 1\ azcurra/Taller-Prog-I-2021-1C-Chipa/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/lauti/Documentos/Taller\ 1\ azcurra/Taller-Prog-I-2021-1C-Chipa/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/lauti/Documentos/Taller\ 1\ azcurra/Taller-Prog-I-2021-1C-Chipa/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/client/Client.cpp">
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/client/Client.h">
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/client/Input.cpp">
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/client/Input.h">
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/client/Login.cpp">
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/client/Login.h">
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/client/Monitor.cpp">
+			<Option target="Server"/>
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/client/Monitor.h">
+			<Option target="Server"/>
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/client/Processor.cpp">
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/client/Processor.h">
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/client/SDLManager.cpp">
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/client/SDLManager.h">
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/client/SoundManager.cpp">
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/client/SoundManager.h">
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/client/View.cpp">
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/client/View.h">
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/client/clientMain.cpp">
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/common/Config.cpp">
+			<Option target="Server"/>
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/common/Config.h">
+			<Option target="Server"/>
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/common/Entity.cpp">
+			<Option target="Server"/>
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/common/Entity.h">
+			<Option target="Server"/>
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/common/Logger.cpp">
+			<Option target="Server"/>
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/common/Logger.h">
+			<Option target="Server"/>
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/common/Socket.cpp">
+			<Option target="Server"/>
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/common/Socket.h">
+			<Option target="Server"/>
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/common/Thread.cpp">
+			<Option target="Server"/>
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/common/Thread.h">
+			<Option target="Server"/>
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/common/protocols/EntityInfo.cpp">
+			<Option target="Server"/>
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/common/protocols/EntityInfo.h">
+			<Option target="Server"/>
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/common/protocols/EntityProtocol.cpp">
+			<Option target="Server"/>
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/common/protocols/EntityProtocol.h">
+			<Option target="Server"/>
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/common/protocols/InputProtocol.cpp">
+			<Option target="Server"/>
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/common/protocols/InputProtocol.h">
+			<Option target="Server"/>
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/CollisionManager.cpp">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/CollisionManager.h">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/Game.cpp">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/Game.h">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/LoginManager.cpp">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/LoginManager.h">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/Peer.cpp">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/Peer.h">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/PeerManager.cpp">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/PeerManager.h">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/Receiver.cpp">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/Receiver.h">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/Reconnector.cpp">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/Reconnector.h">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/Sender.cpp">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/Sender.h">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/Server.cpp">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/Server.h">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/Barrel.cpp">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/Barrel.h">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/Character.cpp">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/Character.h">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/Ember.cpp">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/Ember.h">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/Fire.cpp">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/Fire.h">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/Flame.cpp">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/Flame.h">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/Hammer.cpp">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/Hammer.h">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/Monkey.cpp">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/Monkey.h">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/Movement.cpp">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/Movement.h">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/Platform.cpp">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/Platform.h">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/Princess.cpp">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/Princess.h">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/Stair.cpp">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/Stair.h">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/StateManager.cpp">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/entities/StateManager.h">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/src/server/serverMain.cpp">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/../../../../../usr/lib/cmake/nlohmann_json/nlohmann_jsonConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\lib\cmake\nlohmann_json\"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/../../../../../usr/lib/cmake/nlohmann_json/nlohmann_jsonConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\lib\cmake\nlohmann_json\"/>
+		</Unit>
+		<Unit filename="/home/lauti/Documentos/Taller 1 azcurra/Taller-Prog-I-2021-1C-Chipa/../../../../../usr/lib/cmake/nlohmann_json/nlohmann_jsonTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\lib\cmake\nlohmann_json\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
