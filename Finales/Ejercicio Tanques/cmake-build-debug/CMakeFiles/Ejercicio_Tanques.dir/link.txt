@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Ejercicio_Tanques.dir/main.cpp.o -o Ejercicio_Tanques 

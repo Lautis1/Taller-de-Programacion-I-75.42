@@ -1,0 +1,6 @@
+Los archivos son parte del enunciado en el exámen. Los resultados correctos no, pero son:
+C    0.90
+F    1.90
+G    14.10
+
+Dan 2 horas para hacerlo (sobra), y permiten hacer pruebas, es decir, decir que uno ya terminó y quiere verificar si los datos que devuelve el programa son correctos. Si la corrida es exitosa para ese caso y alguna variante mínima, ya está.

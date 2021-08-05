@@ -1,0 +1,4 @@
+/home/lauti/Descargas/clion-2021.1.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/lauti/Documentos/Practica Final taller azcurra/Ejercicio Personajes y saltos"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/lauti/Documentos/Practica Final taller azcurra/Ejercicio Personajes y saltos/cmake-build-debug

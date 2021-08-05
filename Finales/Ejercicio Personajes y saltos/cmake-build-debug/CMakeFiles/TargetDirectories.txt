@@ -1,0 +1,3 @@
+/home/lauti/Documentos/Practica Final taller azcurra/Ejercicio Personajes y saltos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lauti/Documentos/Practica Final taller azcurra/Ejercicio Personajes y saltos/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lauti/Documentos/Practica Final taller azcurra/Ejercicio Personajes y saltos/cmake-build-debug/CMakeFiles/Ejercicio_Tanques.dir

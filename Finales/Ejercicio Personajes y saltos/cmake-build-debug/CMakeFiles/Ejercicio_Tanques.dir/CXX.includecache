@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lauti/Documentos/Practica Final taller azcurra/Ejercicio Personajes y saltos/main.cpp
+stdio.h
+/home/lauti/Documentos/Practica Final taller azcurra/Ejercicio Personajes y saltos/stdio.h
+string.h
+/home/lauti/Documentos/Practica Final taller azcurra/Ejercicio Personajes y saltos/string.h
+stdlib.h
+/home/lauti/Documentos/Practica Final taller azcurra/Ejercicio Personajes y saltos/stdlib.h
+math.h
+/home/lauti/Documentos/Practica Final taller azcurra/Ejercicio Personajes y saltos/math.h
+iostream
+-
+fstream
+-
+vector
+-
+

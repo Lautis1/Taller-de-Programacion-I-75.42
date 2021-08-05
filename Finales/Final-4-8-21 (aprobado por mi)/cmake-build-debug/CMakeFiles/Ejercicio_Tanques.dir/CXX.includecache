@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lauti/Documentos/Practica Final taller azcurra/Final-4-8-21/main.cpp
+iostream
+-
+fstream
+-
+vector
+-
+string
+-
+string.h
+/home/lauti/Documentos/Practica Final taller azcurra/Final-4-8-21/string.h
+stdio.h
+/home/lauti/Documentos/Practica Final taller azcurra/Final-4-8-21/stdio.h
+chrono
+-
+ctime
+-
+

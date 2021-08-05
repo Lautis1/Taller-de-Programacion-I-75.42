@@ -1,0 +1,17 @@
+Nota: los archivos no son los oficiales.
+
+== archivos básicos ==
+P2 2.000000
+P1 4.999000
+
+=== archivos "_a" ===
+p1 2.000000
+p2 8.499000
+
+=== archivos "_n" ===
+P4 2.899000
+P3 3.799000
+P2 4.599000
+P6 6.999000
+P5 7.799000
+P1 11.000000

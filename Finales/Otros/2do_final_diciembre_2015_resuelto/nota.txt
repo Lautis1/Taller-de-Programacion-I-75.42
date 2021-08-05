@@ -1,0 +1,17 @@
+NO usar usigned int, porque hay comparaciones que "salen mal". Por ejemplo, hay gente que los archivos anteriores les daba:
+
+Id personaje    Cant celdas     Cant ciclos
+p3              4               5
+p5              2               7
+p2              0               17
+
+
+y eso está mal, pero no tan mal, porque probablemente el único problema era que usaban usigned int en vez de int para x e y.
+
+* En el final no hay txt para verificar, por lo que conviene entrenarse bien para pensar casos borde y crearse los txt de antemano. 
+
+** El resuelto que se sube fue hecho mínimamente a conciencia para que tenga el menor código posible y no haga cosas feas. Además ESTA EN C, NO EN C++, cosa que pida el enunciado :D (aunque esto no es tan importante...). Obviamente no está del todo pulido ni a palo (ej: no se verifica si la memoria fue alojada :|).
+
+*** Se suben dos soluciones porque una en Ubuntu tira error ¯\_(ツ)_/¯
+
+**** El de Windows está hecho con el tablero desde 0 y el de Ubuntu considerando el inicio del tablero de forma más literal (según la imagen).

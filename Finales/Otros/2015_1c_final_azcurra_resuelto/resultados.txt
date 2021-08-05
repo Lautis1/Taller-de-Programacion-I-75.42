@@ -1,0 +1,40 @@
+Resultados:
+
+=== 0 ===
+ID: A_3_ no colisiona
+ID: A_4_ no colisiona
+ID: A_5B no colisiona
+ID: A_6B no colisiona
+ID: A_6X no colisiona
+ID: A_7B no colisiona
+ID: A_1_     D: 25.000       E: 80.000
+ID: A_2_     D: 40.000       E: 75.000
+ID: A_4B     D: 55.000       E: 65.000
+ID: A_5_     D: 60.000       E: 60.000
+ID: A_6_     D: 75.000       E: 55.000
+ID: A_7_     D: 90.000       E: 50.000
+ID: A_8_     D: 95.000       E: 0.000
+ID: A_8B no colisiona
+ID: A_8C no colisiona
+
+
+=== 1 ===
+ID: bala_4 no colisiona
+ID: bala_5 no colisiona
+ID: bala_9     D: 1.800       E: 91.800
+ID: bala_11     D: 5.800       E: 73.400
+ID: bala_7     D: 6.500       E: 54.300
+ID: bala_2     D: 8.000       E: 29.300
+ID: bala_10     D: 10.800       E: 14.600
+ID: bala_1     D: 19.000       E: 3.600
+ID: bala_6     D: 23.000       E: -12.100
+ID: bala_3 no colisiona
+
+=== 2 ===
+ID: A1 no colisiona
+ID: A3 no colisiona
+ID: A5 no colisiona
+ID: A2     D: 2.001       E: 80.000
+ID: A4     D: 9.501       E: 60.000
+ID: A6     D: 16.000       E: 40.000
+ID: A6     D: 28.001       E: 20.000
