@@ -1,5 +1,5 @@
 # Taller-de-Programacion-I-75.42
-Trabajo práctico de la materia Taller de Programación I de FIUBA
+Repositorio de la materia Taller de Programación I de FIUBA
 
 Primer cuatrimestre 2021 - Curso: Diego Azcurra
 
